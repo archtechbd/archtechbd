@@ -1,0 +1,35 @@
+ArchTech BD Proprietary Software License Agreement
+
+Copyright (c) 2026 ArchTech BD. All rights reserved.
+
+NOTICE TO USER: PLEASE READ THIS CONTRACT CAREFULLY. BY USING, COPYING, 
+DISTRIBUTING, OR MODIFYING ALL OR ANY PORTION OF THIS SOFTWARE, YOU ACCEPT 
+ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+
+1. PROPRIETARY RIGHTS
+The Software and any copies that you are authorized by ArchTech BD to make 
+are the intellectual property of and are owned by ArchTech BD (Dhaka, Bangladesh). 
+The structure, organization, and code of the Software are the valuable trade 
+secrets and confidential information of ArchTech BD. 
+
+2. LICENSE GRANT & RESTRICTIONS
+Unless explicitly granted otherwise via a separate, written commercial contract 
+signed by an authorized representative of ArchTech BD:
+   (a) You may not copy, redistribute, rent, lease, sub-license, or lend the Software.
+   (b) You may not decompile, reverse engineer, disassemble, or modify the Software.
+   (c) You may not use the source code as a standalone asset to build competing commercial products.
+
+3. CLIENT DELIVERY EXCEPTION
+For software built explicitly for a client under a paid agreement, the client is 
+granted a non-exclusive, perpetual, worldwide license to run, operate, and maintain 
+the compiled software for their internal business operations, subject to the terms 
+stipulated in their individual Service Level Agreement (SLA).
+
+4. WARRANTY DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
