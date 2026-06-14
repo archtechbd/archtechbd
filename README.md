@@ -59,7 +59,7 @@ This space hosts our core open-source utilities, starter boilerplates, and autom
 
 Are you a developer looking to collaborate, or a local business ready to scale digital revenue? Let's build something unforgettable.
 
-* **📧 Email:** info@archtechbd.com
+* **📧 Email:** contact@archtechbd.com
 * **🌐 Website:** [www.archtechbd.com](https://www.archtechbd.com)
 * **📱 Socials:** [@ArchTechBD](https://facebook.com/ArchTechBD) on Facebook & Instagram
 * **📍 Location:** Dhaka, Bangladesh
